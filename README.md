@@ -1,7 +1,17 @@
-# Computer-Vision
-A repository containing codes and google colab notebooks to assignments of Computer Vision subject.
+# Computer Vision Repository
 
-To run this code in your system:
-- Just open this notebook in your google colab
-- Upload the "caliberation_images" folder containing the images in the session storage.
-- Do not use VS code to run this code as some functions like "cv2_imshow" runs only in google colab and will need some changes if runned using VS code.
+This repository contains codes and Google Colab notebooks related to assignments for the Computer Vision course.
+
+## Running the Notebook
+
+To execute the code in this repository, follow these steps:
+
+1. **Open the Notebook in Google Colab**  
+   - Click on the following link to access the notebook:  
+     [Open in Google Colab](https://colab.research.google.com/drive/1tCic10Z8NRUFCNobH8fRsPvkvNHXPg0L?usp=sharing)
+
+2. **Upload the Calibration Images**  
+   - Ensure that the `calibration_images` folder, containing the required chessboard images, is uploaded to the session storage in Colab.
+
+3. **Avoid Running in VS Code**  
+   - Some functions, such as `cv2_imshow`, are specific to Google Colab. Running the code in VS Code may require modifications.
